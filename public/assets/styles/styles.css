@@ -121,3 +121,25 @@ a.btn.text-center{
     border: 1px solid var(--DarkBlue) !important;
     border-radius: 0rem;
 }
+
+.Compañias div.card{
+    border: 1px solid var(--Cyan) !important;
+    border-radius: 0rem;
+}
+.Compañias dt:nth-child(1){
+    color:var(--Cyan);
+}
+.Compañias dt:nth-child(2){
+    color:var(--Darkgray);
+}
+.Compañias img{
+    width: 10rem;
+    justify-content: center;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Compañias h5{
+    color: var(--Blue);
+}
