@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
+
+:root{
+    --Lightgray:#C4C4C4;
+    --White:white;
+    --Darkgray:#8B8B8B;
+    --Black:black;
+    --Blue:#00B2FF;
+    --Cyan:#00D0D0;
+    --DarkBlue:#052473;
+    --gradient:linear-gradient(90deg, var(--Blue), var(--Cyan))
+}
+body{
+    background-color:var(--White);
+    overflow-x: hidden;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    text-transform: initial;
+}
+*::selection{
+    background: var(--Blue);
+}
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 1rem;
+    padding:.4rem 1rem;
+    background:var(--White);
+    border: 0.1rem solid;
+    border-color: var(--DarkBlue);
+    font-size: 1rem;
+    color:var(--DarkBlue);
+    cursor: pointer;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    transition: all .3s linear;
+    border-radius:.0rem;
+}
+.btn2{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 1rem;
+    padding:.4rem 1rem;
+    background:var(--White);
+    border: 0.1rem solid;
+    border-color: var(--Cyan);
+    font-size: 1rem;
+    color:var(--Blue);
+    cursor: pointer;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    transition: all .3s linear;
+    border-radius:.0rem;
+}
+.btn:hover{
+    transform: scale(1.1);
+    color: var(--Blue);
+}
+.btn2:hover{
+    transform: scale(1.1);
+    color: var(--Lightgray);
+}
+*::selection{
+    background: var(--Blue);
+}
+.container-fluid{
+    color:var(--Cyan);
+    background-color: #EDEBEB;
+}
+nav.nav-item {
+    background-color: var(--Cyan);
+}
+nav{
+    box-shadow:0px 0px 40px var(--Lightgray);
+    z-index:999;
+}
+navbar-nav{
+    background-color: #EDEBEB;
+}
+.Inicio dt:nth-child(1){
+    color:var(--Cyan);
+}
+.Nosotros .card-body img{
+    margin-left:6.5rem;
+}
+.Nosotros dt:nth-child(1){
+    color:var(--Cyan);
+}
+.Nosotros dt:nth-child(2){
+    color:var(--Darkgray);
+}
+.Planes dt:nth-child(1){
+    color:var(--Cyan);
+}
+.Planes dt:nth-child(2){
+    color:var(--Darkgray);
+}
+.Planes .box-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.Planes a{
+    justify-content: center;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a.btn.text-center{
+    border: 1px solid var(--DarkBlue) !important;
+    border-radius: 0rem;
+}
+.Planes div.card{
+    border: 1px solid var(--DarkBlue) !important;
+    border-radius: 0rem;
+}
