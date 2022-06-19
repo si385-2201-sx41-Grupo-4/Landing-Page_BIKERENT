@@ -225,3 +225,66 @@ a.btn.text-center{
 .Compañias h5{
     color: var(--Blue);
 }
+
+.Compañias div.card{
+    border: 1px solid var(--Cyan) !important;
+    border-radius: 0rem;
+}
+.Compañias dt:nth-child(1){
+    color:var(--Cyan);
+}
+.Compañias dt:nth-child(2){
+    color:var(--Darkgray);
+}
+.Compañias img{
+    width: 10rem;
+    justify-content: center;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Compañias h5{
+    color: var(--Blue);
+}
+.Contáctanos div.form-group.mt-2{
+    color: var(--Blue);
+}
+.Contáctanos dt:nth-child(1){
+    color:var(--Cyan);
+}
+.Contáctanos textarea.form-control{
+    border: 1px solid var(--Cyan) !important;
+    border-radius: 0rem;
+}
+.Contáctanos input.form-control{
+    border: 1px solid var(--Cyan) !important;
+    border-radius: 0rem;
+    color:var(--Blue);
+}
+.Contáctanos dt:nth-child(2){
+    color:var(--Darkgray);
+}
+.Contáctanos dt:nth-child(3){
+    color:var(--Darkgray);
+}
+
+.contact3 .font-weight-medium {
+    font-weight: 200;
+}
+.Contáctanos img{
+    justify-content: center;
+    width: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Contáctanos .container{
+    margin: auto;
+}
+.Contáctanos div.form-group.mt-2{
+    color:var(--Blue);
+}
+.Contáctanos div.col-md-8{
+    color:var(--Blue);
+}
