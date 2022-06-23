@@ -1,14 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
 
-:root{
-    --Lightgray:#C4C4C4;
-    --White:white;
-    --Darkgray:#8B8B8B;
-    --Black:black;
-    --Blue:#00B2FF;
-    --Cyan:#00D0D0;
-    --DarkBlue:#052473;
-    --gradient:linear-gradient(90deg, var(--Blue), var(--Cyan))
+:root {
+    --Lightgray: #C4C4C4;
+    --White: white;
+    --Darkgray: #8B8B8B;
+    --Black: black;
+    --Blue: #00B2FF;
+    --Cyan: #00D0D0;
+    --DarkBlue: #052473;
+    --gradient: linear-gradient(90deg, var(--Blue), var(--Cyan));
+}
+html{
+    overflow-x: hidden;
 }
 body{
     background-color:var(--White);
@@ -75,9 +78,15 @@ body{
 nav.nav-item {
     background-color: var(--Cyan);
 }
+header nav.navbar.navbar-expand-lg.navbar-light.bg-light{
+    background-color: #EDEBEB;
+}
 nav{
     box-shadow:0px 0px 40px var(--Lightgray);
     z-index:999;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light{
+    background-color: #EDEBEB!important;
 }
 navbar-nav{
     background-color: #EDEBEB;
@@ -85,14 +94,75 @@ navbar-nav{
 .Inicio dt:nth-child(1){
     color:var(--Cyan);
 }
-.Nosotros .card-body img{
-    margin-left:6.5rem;
+.Inicio{
+    margin-top: 2rem;
+}
+.Inicio canvas{
+    height: 1rem;
+    width: 20rem;
+}
+.Inicio .carousel-item:nth-child(4){
+    background-color: #EDEBEB;
+}
+.Inicio div.card.h-100.border-0{
+    background-color: #EDEBEB;
+}
+.Nosotros {
+    margin-top: 3rem;
 }
 .Nosotros dt:nth-child(1){
     color:var(--Cyan);
 }
+.Nosotros .appsdescarga{
+    margin-top: 3rem;
+    width: 60%;
+    display:-ms-grid;
+    display:grid;
+    grid-auto-columns:1fr;
+    grid-column-gap:16px;
+    grid-row-gap:16px;
+    -ms-grid-columns:1fr 1fr;
+    grid-template-columns:1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows:auto;
+}
 .Nosotros dt:nth-child(2){
     color:var(--Darkgray);
+}
+.Novedades  dt:nth-child(1){
+    color:var(--Cyan);
+}
+.Novedades  dt:nth-child(2){
+    color:var(--Darkgray);
+}
+.Novedades{
+    height:30%;
+    margin-top: 3rem;
+}
+.Novedades .card-group .btn2 {
+    margin-right: auto;
+    margin-left: auto;
+}
+.Novedades .card .card-img-top{
+    margin-top:2rem;
+    margin-left: auto;
+    margin-right: auto;
+    width:70%;
+    height:60%;
+}
+.Novedades .card-group img{
+    animation: float 3s linear infinite;
+}
+@keyframes float{
+    0%, 100%{
+        transform: translateY(0rem);
+    }
+    50%{
+        transform: translateY(-1.5rem);
+    }
+}
+.Planes{
+    margin-top: 3rem;
 }
 .Planes dt:nth-child(1){
     color:var(--Cyan);
@@ -121,7 +191,6 @@ a.btn.text-center{
     border: 1px solid var(--DarkBlue) !important;
     border-radius: 0rem;
 }
-
 .Compañias div.card{
     border: 1px solid var(--Cyan) !important;
     border-radius: 0rem;
