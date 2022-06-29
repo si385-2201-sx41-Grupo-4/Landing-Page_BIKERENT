@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d67480d3-a36a-4992-94cb-463184cef9bc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+    <list default="true" id="dac65791-fd7c-4ffe-a653-c084ef5bec6d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Logo_Inicio_SF.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/2022-New-26-Full-Suspension-Electric-Mountain-Bike-with-LED-Display.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/51 Best Gift Ideas for Girls That They Will Love.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/BIKERENT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Biking.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Contacto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Firmstrong 26.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Logo_Inicio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Logo_Inicio_SF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Mamachari.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Testimonio1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Testimonio2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Testimonio3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/Thebest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/bici_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/bici_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/bici_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/bmx_mini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/descargalo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/descargalo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/ico_facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/ico_instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/ico_tiktok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/iconfinder_facebook_logo_4552607.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/menu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/menuapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/norco.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/onlineshoppingcart_85781.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/pngfind.com-google-play-store-logo-6834583.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,46 +61,52 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2AawxogXaAUVQZpjt4UwSnqq5f4" />
+  <component name="ProjectId" id="2B6P4un30Sn33QJ306UOc7eZTgc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Proyectos IHC/ld_nuevo/Landing-Page_BIKERENT",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Proyectos IHC/feature/Landing-Page_BIKERENT&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\landing-page-BIKERENT\public\assets" />
-    </key>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d67480d3-a36a-4992-94cb-463184cef9bc" name="Changes" comment="" />
-      <created>1655261254612</created>
+      <changelist id="dac65791-fd7c-4ffe-a653-c084ef5bec6d" name="Changes" comment="" />
+      <created>1656223373854</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1655261254612</updated>
-      <workItem from="1655261256668" duration="2240000" />
-      <workItem from="1655267494340" duration="299000" />
+      <updated>1656223373854</updated>
+      <workItem from="1656223375181" duration="94673000" />
+      <workItem from="1656516418301" duration="300000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
