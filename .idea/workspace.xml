@@ -1,118 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bce45317-5434-4346-b98a-77ed9e5758d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../BIKERENT.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BIKERENT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2022-New-26-Full-Suspension-Electric-Mountain-Bike-with-LED-Display.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/51 Best Gift Ideas for Girls That They Will Love.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/APPSTORE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BIKERENT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Biking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Contacto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Firmstrong 26.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GOOGLEPLAY.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Logo_Inicio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Logo_Inicio_SF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Mamachari.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Testimonio1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Testimonio2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Testimonio3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Thebest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bici_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bici_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bici_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bmx_mini.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ico_facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ico_instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ico_tiktok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/iconfinder_facebook_logo_4552607.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/norco.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/onlineshoppingcart_85781.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/.idea/LP_Clase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/Index_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/2022-New-26-Full-Suspension-Electric-Mountain-Bike-with-LED-Display.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/51 Best Gift Ideas for Girls That They Will Love.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/BIKERENT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/Biking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/Contacto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/Firmstrong 26.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/Logo_Inicio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/Logo_Inicio_SF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/Mamachari.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/Testimonio1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/Testimonio2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/Testimonio3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/Thebest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/bici_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/bici_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/bici_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/bmx_mini.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/descargalo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/descargalo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/ico_facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/ico_instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/ico_tiktok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/iconfinder_facebook_logo_4552607.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/menu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/menuapp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/norco.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/onlineshoppingcart_85781.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/pngfind.com-google-play-store-logo-6834583.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/image/user.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Clase/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../landing-page/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/.idea/landing-page.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/css/estilos.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/2000360829110_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/2022-New-26-Full-Suspension-Electric-Mountain-Bike-with-LED-Display.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/51 Best Gift Ideas for Girls That They Will Love.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/5aed97da208cc94b7bff8de2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/BIKERENT.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/Biking.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/Firmstrong 26.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/Logo_Inicio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/Mamachari.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/Thebest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/Women's Sixthreezero Around the Block Beach Cruiser Bike - Ladies 26_ 7 Speed Cruiser Bicycle - Sixthreezero Bike Co_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/bmx_mini.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/descargalo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/descargalo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/ico_facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/ico_instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/ico_tiktok.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/iconfinder_facebook_logo_4552607.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/menu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/menuapp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/norco.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/onlineshoppingcart_85781.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/pngfind.com-google-play-store-logo-6834583.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/user.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/image/user123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../landing-page/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="dac65791-fd7c-4ffe-a653-c084ef5bec6d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,73 +15,38 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2AXfNj6ZKBoiVzoQMoSqUlasWls" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2B6P4un30Sn33QJ306UOc7eZTgc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/WebStorm-clase/Projects/BIKERENT",
+    "last_opened_file_path": "D:/app landing page",
     "list.type.of.created.stylesheet": "CSS",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WebStorm-clase\Projects\BIKERENT\images" />
-      <recent name="D:\WebStorm-clase\Projects\BIKERENT\js" />
-      <recent name="D:\WebStorm-clase\Projects\BIKERENT\css" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bce45317-5434-4346-b98a-77ed9e5758d7" name="Changes" comment="" />
-      <created>1655160812787</created>
+      <changelist id="dac65791-fd7c-4ffe-a653-c084ef5bec6d" name="Changes" comment="" />
+      <created>1656223373854</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1655160812787</updated>
-      <workItem from="1655160814098" duration="47559000" />
-      <workItem from="1655430615057" duration="634000" />
-      <workItem from="1655486338964" duration="755000" />
-      <workItem from="1655761725605" duration="28000" />
-      <workItem from="1655761828302" duration="37106000" />
-      <workItem from="1655871066127" duration="15000" />
+      <updated>1656223373854</updated>
+      <workItem from="1656223375181" duration="94673000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
